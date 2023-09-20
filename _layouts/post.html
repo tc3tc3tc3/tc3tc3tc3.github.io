@@ -20,9 +20,13 @@ layout: default
   {% if site.hide_post_share != true %}
     {% include post-share.html %}
   {% endif %}
+
+  {% comment %}
   {% if site.hide_related_posts != true %}
     {% include related-posts.html %}
   {% endif %}
+  {% endcomment %}
+
   {% if site.data.settings.disqus.comments %}
     {% include disqus.html %}
   {% endif %}
