@@ -7,7 +7,7 @@ disqus:
 google-ID: ''
 
 menu:
-- {name: 'Teaching Services',  url: 'facts'}
+- {name: 'Teaching',  url: 'facts'}
 - {name: 'Testimonials', url: 'resources'}
 - {name: 'Blog',       url: 'sample-posts'}
 - {name: 'Shop',      url: 'documentation'}
