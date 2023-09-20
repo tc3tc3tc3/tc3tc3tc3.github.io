@@ -7,7 +7,7 @@ disqus:
 google-ID: ''
 
 menu:
-- {name: 'Tutoring Service',  url: 'teacher'}
+- {name: 'Tutoring',  url: 'teacher'}
 - {name: 'Testimonials', url: 'testimonials'}
 - {name: 'About me',              url: 'sumin'}
 - {name: 'Resources',            url: 'resources'}
