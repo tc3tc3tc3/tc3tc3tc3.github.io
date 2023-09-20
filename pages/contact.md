@@ -4,4 +4,7 @@ title: Contact
 permalink: /contact
 ---
 
-filler
+want my number?
+
+sike
+
