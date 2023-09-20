@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: page
 title: Shop
 category: resources
 permalink: /shop
@@ -18,3 +18,5 @@ out of stock
 
 
 ### Continue to checkout
+
+ 

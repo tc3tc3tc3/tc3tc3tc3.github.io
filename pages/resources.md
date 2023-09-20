@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: page
 title: Learning Resources
 category: resources
 permalink: /resources
@@ -17,4 +17,4 @@ somewhere on youtube
 
 ## Additional stuff
 
-wikipedia
+wikipedia 
