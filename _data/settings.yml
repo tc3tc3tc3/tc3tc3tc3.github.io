@@ -10,6 +10,7 @@ menu:
 - {name: 'Tutoring Service',  url: 'teacher'}
 - {name: 'Testimonials', url: 'testimonials'}
 - {name: 'About me',              url: 'sumin'}
+- {name: 'Resources',            url: 'resources'}
 - {name: 'Contact',            url: 'contact'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
