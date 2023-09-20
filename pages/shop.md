@@ -7,16 +7,15 @@ permalink: /shop
 
 ## T-Shirts
 
-![cute tshirt 1](assets/img/tshirt-1.jpg)
+![cute tshirt 1](../assets/img/tshirt-1.jpg)
 
 $16.99
 
 ## Socks
 
-out of stock
 
+out of stock
 
 
 ### Continue to checkout
 
- 
