@@ -7,7 +7,7 @@ disqus:
 google-ID: ''
 
 menu:
-- {name: 'Home',  url: {{ site.github.url }}}
+- {name: 'Home',  url: ''}
 - {name: 'Resources',            url: 'resources'}
 - {name: 'Merch',            url: 'merch'}
 - {name: 'Contact',            url: 'contact'}
