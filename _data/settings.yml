@@ -7,11 +7,9 @@ disqus:
 google-ID: ''
 
 menu:
-- {name: 'Tutoring',  url: 'teacher'}
-- {name: 'Testimonials', url: 'testimonials'}
-- {name: 'About me',              url: 'sumin'}
+- {name: 'Home',  url: {{ site.github.url }}}
 - {name: 'Resources',            url: 'resources'}
-- {name: 'Shop',            url: 'shop'}
+- {name: 'Merch',            url: 'merch'}
 - {name: 'Contact',            url: 'contact'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
