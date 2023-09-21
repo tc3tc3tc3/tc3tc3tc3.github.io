@@ -16,7 +16,7 @@ permalink: /resources
     .iframe-container iframe {
         border: none;
         width: 160%;
-        height: 160%;
+        height: 80%;
     }
 </style>
 
