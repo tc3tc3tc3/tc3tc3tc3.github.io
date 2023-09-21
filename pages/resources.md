@@ -7,12 +7,12 @@ permalink: /resources
 
 ## Textbooks
 
-search it urself
+[free online textbooks](https://open.umn.edu/opentextbooks)
 
 
 ## Lectures
 
-somewhere on youtube
+[free online textbooks](https://www.khanacademy.org/)
 
 
 ## Additional stuff
