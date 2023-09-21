@@ -5,6 +5,21 @@ category: resources
 permalink: /resources
 ---
 
+<style>
+    .iframe-container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+    }
+
+    .iframe-container iframe {
+        border: none;
+        width: 80%;
+        height: 80%;
+    }
+</style>
+
 ## Textbooks
 
 [Online textbooks](https://open.umn.edu/opentextbooks)
@@ -17,6 +32,8 @@ permalink: /resources
 
 ## Additional Resources
 
-<iframe src="https://tutorial.math.lamar.edu/pdf/trig_cheat_sheet.pdf" width="300%" height=auto>
-    <p>Your browser does not support iframes. <a href="https://tutorial.math.lamar.edu/pdf/trig_cheat_sheet.pdf">Click here</a> to view the PDF.</p>
-</iframe>
+<div class="iframe-container">
+    <iframe src="https://tutorial.math.lamar.edu/pdf/trig_cheat_sheet.pdf">
+        <p>Your browser does not support iframes. <a href="https://tutorial.math.lamar.edu/pdf/trig_cheat_sheet.pdf">Click here</a> to view the PDF.</p>
+    </iframe>
+</div>
