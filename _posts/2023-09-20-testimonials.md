@@ -10,7 +10,3 @@ image: testimonial-1.jpg
 ### Do you want to be the next Bill Gates?
 
 Try ms.kim tutoring service
-
-### Do you want your kid to be the next Elon Musk??
-
-Try ms.kim tutoring service
