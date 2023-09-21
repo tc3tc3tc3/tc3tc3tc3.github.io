@@ -17,4 +17,6 @@ permalink: /resources
 
 ## Additional Resources
 
-[Trig Cheat Sheet](https://tutorial.math.lamar.edu/pdf/trig_cheat_sheet.pdf)
+<iframe src="https://tutorial.math.lamar.edu/pdf/trig_cheat_sheet.pdf" width="100%" height="500px">
+    <p>Your browser does not support iframes. <a href="https://tutorial.math.lamar.edu/pdf/trig_cheat_sheet.pdf">Click here</a> to view the PDF.</p>
+</iframe>
