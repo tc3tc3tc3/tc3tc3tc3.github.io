@@ -7,14 +7,14 @@ permalink: /resources
 
 ## Textbooks
 
-[free online textbooks](https://open.umn.edu/opentextbooks)
+[Online textbooks](https://open.umn.edu/opentextbooks)
 
 
 ## Lectures
 
-[free online textbooks](https://www.khanacademy.org/)
+[Khan Academy](https://www.khanacademy.org/)
 
 
-## Additional stuff
+## Additional Resources
 
-wikipedia 
+[Trig Cheat Sheet](https://tutorial.math.lamar.edu/pdf/trig_cheat_sheet.pdf)
