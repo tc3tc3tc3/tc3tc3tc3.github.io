@@ -2,8 +2,8 @@
 layout: post
 title: "Testimonials"
 author: "Sumin Kim"
-categories: sample
-tags: [sample]
+categories: teach
+tags: [teach]
 image: testimonial-1.jpg
 ---
 
